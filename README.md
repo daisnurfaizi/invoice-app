@@ -19,11 +19,6 @@ install& NodeJs and update to latest version
     ```sh
     npm install
     ```
-3. Create database * run migration table
-    ```sh    
-    npx sequelize db:create
-    npx sequelize db:migrate
-    ```
 3. Start development server
     ```sh
     npm run dev
