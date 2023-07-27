@@ -16,8 +16,12 @@
   "dependencies": {
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@pinia/nuxt": "^0.4.11",
+    "@vee-validate/yup": "^4.10.8",
     "@vite-pwa/nuxt": "^0.1.0",
+    "date-fns": "^2.30.0",
     "nuxt-icon": "^0.4.2",
-    "uuid": "^9.0.0"
+    "pinia": "^2.1.6",
+    "uuid": "^9.0.0",
+    "vee-validate": "^4.10.8"
   }
 }
